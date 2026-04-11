@@ -1,0 +1,44 @@
+navbar_title = "Daylee tech daily"
+hide_navbar_on_scroll = true
+footer = "Copyright © 2026 by daylee"
+color_scheme = "light"
+
+enable_zooming_js = true
+enable_header_anchor = true
+enable_toc = true
+enable_site_search = true
+enable_math = false
+
+# SEO
+enable_open_graph = true
+enable_twitter_cards = true
+
+# Collapsible Menu
+enable_collapsible_toc = false
+enable_collapsible_changelogs = true
+toc_position = "right"
+
+# Navbar
+navbar_show_all_languages = true
+navbar_width = "wide"
+
+# Author (객체로 변경)
+[author]
+name = "Daylee"
+email = "your@email.com"
+
+[list_layout]
+enable_group_by_year = true
+enable_show_date = true
+enable_pagination = false
+
+# syntax highlight settings
+[syntax_highlight]
+lib = "prism.js"
+
+    [syntax_highlight.builtin]
+    enable_code_copy = true
+
+    [syntax_highlight.prism]
+    enable_code_copy = true
+    enable_line_no = false
