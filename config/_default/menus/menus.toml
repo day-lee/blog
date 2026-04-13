@@ -1,8 +1,4 @@
-[[navbar]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 1
+
 
 [[navbar]]
   identifier = "posts"
@@ -11,25 +7,7 @@
   weight = 2
 
 [[navbar]]
-  identifier = "post"
-  name = "post"
-  url = "/post/"
+  identifier = "Categories"
+  name = "Categories"
+  url = "/categories/"
   weight = 3
-  [[navbar]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/post/projects"
-    parent = "post"
-    weight = 1
-  [[navbar]]
-    identifier = "learning"
-    name = "Learning"
-    url = "/post/learning"
-    parent = "post"
-    weight = 2
-  [[navbar]]
-    identifier = "thoughts"
-    name = "Thoughts"
-    url = "/post/thoughts"
-    parent = "post"
-    weight = 3

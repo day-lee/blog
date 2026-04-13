@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en"
-title = "Daylee tech daily"
+title = "Daylee Tech Daily"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true

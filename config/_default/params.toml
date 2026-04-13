@@ -1,4 +1,4 @@
-navbar_title = "Daylee tech daily"
+navbar_title = "Daylee Tech Daily"
 hide_navbar_on_scroll = true
 footer = "Copyright © 2026 by daylee"
 color_scheme = "light"
@@ -19,7 +19,7 @@ enable_collapsible_changelogs = true
 toc_position = "right"
 
 # Navbar
-navbar_show_all_languages = true
+navbar_show_all_languages = false
 navbar_width = "wide"
 
 # Author (객체로 변경)
