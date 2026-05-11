@@ -1,5 +1,5 @@
 ---
-title: "How Agentic Pair Programming Transformed My Junior Dev Workflow in Just 2 Days"
+title: "How Agentic Coding Transformed My Junior Dev Workflow in Just 2 Days"
 date: 2026-05-08
 lastmod: 2026-05-08
 summary: "Building linkedin custom filter app with copilot agent in 2 days"
@@ -11,7 +11,7 @@ author: "Daylee"
 draft: false
 toc: true
 ---
-# How Agentic Pair Programming Transformed My Junior Dev Workflow in Just 2 Days
+# How Agentic Coding Transformed My Junior Dev Workflow in Just 2 Days
 <p style="font-size:14px; color:#696969;"> Daylee &nbsp; &nbsp;| &nbsp;&nbsp; 2026-05-08 </p>
 
 ---
@@ -32,10 +32,14 @@ I was always told to build apps to hone my skills, but spending significant time
 ## How a Junior Developer Approached AI-assisted Coding
  #### *A LinkedIn job filtering app* 
 Initially, I planned to build my own scraper. However, I learned that LinkedIn is strict about scraping, and the risk of being banned was too high. Instead, I used Apify, a professional scraping service. It was cost-effective and, most importantly, safe. With an AI agent, I built an automated system to filter and save that data into Google Sheets.
+<br><br>
+<img src="https://github.com/day-lee/blog/blob/main/static/linkedin-filter-app.png?raw=true" alt="linkedin custom filter app" width="400px" margin-top="14px">
+<p style="text-align:center; font-size:14px; color:#696969;">Linkedin Custom Filtering App</p>
+
 
 ### The Agentic Coding Journey with GitHub Copilot:
 
-   1. Context Setting: I explained the project goals and requirements clearly.
+   1. Context Setting: I explained the project goals, design, and requirements clearly.
    2. Prompt Engineering: I asked how to write better prompts for the Agent to minimise bugs from the start.
    3. Iterative Refinement: We refined the requirements until every detail made sense to both me and the AI.
    4. Modular Code Generation: I broke the work into five small phases. I reviewed the code after each phase rather than doing it all at once.
@@ -44,7 +48,8 @@ Initially, I planned to build my own scraper. However, I learned that LinkedIn i
 
 <i>Note: I later learned the importance of setting a  <code>copilot-instructions.md</code> file for context. Previously, I was manually pasting context for every phase.</i>
 
-<img src="../../static/linkedin-filter-app.png" alt="linkedin custom filter app">
+<img src="https://github.com/day-lee/blog/blob/main/static/copilot.png?raw=true" alt="linkedin custom filter app" width="720px">
+<p style="text-align:center; font-size:14px; color:#696969;">Agentic coding</p>
 
 I didn’t just perform “vibe coding” (building purely with natural language). Instead, I practiced AI-assisted coding, treating the AI as a true pair programmer. I actively reviewed code, made manual tweaks, and maintained a spec document. The project was built in gradual phases under my careful monitoring. 
 
